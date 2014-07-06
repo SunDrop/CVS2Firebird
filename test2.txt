@@ -1,0 +1,19 @@
+Teilenummer         Beschreibung                            Preis          Rabattgruppe
+1638201112          ABDECKUNG                               10.5           20        
+1638201212          ABDECKUNG                               10.5           20        
+169900780080        STEUERGERAET                            1858.41        03        
+2037200105          TUER-ROHBAU                             317.87         20        
+2048691120          BEHAELTER                               25.91          20        
+9066374909          BEPLANKUNG                              74.17          20        
+A0000000300         LIZENZ                                  150.42         57        
+A0000002800         LIZENZ                                  155.46         57        
+A0000002900         LIZENZ                                  168.07         57        
+A0000003000         LIZENZ                                  99.16          57        
+A0000003100         LIZENZ                                  184.87         57        
+A0000003300         LIZENZ                                  107.56         57        
+A0000003303         DAEMPFUNG 1500X1000X25 M                76.4           20        
+A0000003304         DAEMPFUNG 1500X1000X30MM                83.7           20        
+A00000041950070     LEDER APRICOT AL 70                     117.5          03        
+A00000041951920     LEDER, HEATHGRUEN                       120.5          03        
+A00000041951925     LEDER, BLAU                             124.0          03        
+A00000041951926     LEDER,1926 Safrangelb (AL               133.0          03        
